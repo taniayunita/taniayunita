@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taniayunita
 - 👀 I’m interested in front end web development
-- 🌱 I’m currently learning react js, HTML, CSS, & Javascript
+- 🌱 I’m currently learning react js, HTML, CSS, & Javascript, colaborating version control using git and github
 - 🌱 I'm looking for opportunity in front end web development
 - 📫 How to reach me you can contact me by email taniayunita22@gmail.com
 
